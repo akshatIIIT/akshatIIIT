@@ -7,11 +7,11 @@
 - AI-powered movie recommendation systems
 - Bio-inspired patent retrieval platforms
 - Full-stack applications using React, Node.js, and PostgreSQL
-### Open To
+## Open To
 - Software Engineering Internships
 - Backend Development Opportunities
 - AI/ML and Research Collaborations
-### Tech Stack
+## Tech Stack
 #### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
