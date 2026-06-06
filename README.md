@@ -1,22 +1,17 @@
 # Hi, I'm Akshat Raj 👋
-
 - B.Tech Computer Science student at IIIT Delhi
 - Interested in Software Engineering, Backend Systems, and AI/ML
 - Building scalable web applications and intelligent retrieval systems
 - Enjoy solving challenging problems through DSA and system design
-
 ### Currently Working On
 - AI-powered movie recommendation systems
 - Bio-inspired patent retrieval platforms
 - Full-stack applications using React, Node.js, and PostgreSQL
-
 ### Open To
 - Software Engineering Internships
 - Backend Development Opportunities
 - AI/ML and Research Collaborations
-
 ### Tech Stack
-
 #### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
@@ -39,15 +34,5 @@
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-### Highlights
-
-🏆 AIR 5022 in JEE Main (Top 0.4%)
-
-💻 300+ DSA Problems Solved
-
-🔬 AI/ML Research Intern at Salsa Labs, IIIT Delhi
-
-⚙️ Backend Engineer at Complex System Laboratory, IIIT Delhi
 
 📫 Reach me at: akshat23063@iiitd.ac.in
